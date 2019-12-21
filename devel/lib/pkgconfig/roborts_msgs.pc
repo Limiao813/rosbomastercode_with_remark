@@ -1,0 +1,8 @@
+prefix=/home/chaosli/robomaster_ws/devel
+
+Name: roborts_msgs
+Description: Description of roborts_msgs
+Version: 1.0.0
+Cflags: -I/home/chaosli/robomaster_ws/devel/include
+Libs: -L/home/chaosli/robomaster_ws/devel/lib 
+Requires: 
